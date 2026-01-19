@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { Instagram, Phone } from 'lucide-react';
 
@@ -54,7 +55,7 @@ export const Footer: React.FC = () => {
             </li>
             <li>
               <a 
-                href="https://api.whatsapp.com/send/?phone=5511954608742&text&type=phone_number&app_absent=0&utm_source=ig"
+                href="https://api.whatsapp.com/send/?phone=5511933589707&text&type=phone_number&app_absent=0&utm_source=ig"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 hover:text-white transition-colors"

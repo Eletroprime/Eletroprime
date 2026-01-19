@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { ShieldCheck, Zap, Clock, ArrowRight } from 'lucide-react';
 import { WebGLShader } from './ui/webgl-shader';
@@ -73,7 +74,7 @@ export const Hero: React.FC = () => {
           className="flex flex-col sm:flex-row items-center justify-center gap-4 text-sm"
         >
           <a 
-            href="https://api.whatsapp.com/send/?phone=5511954608742&text&type=phone_number&app_absent=0&utm_source=ig"
+            href="https://api.whatsapp.com/send/?phone=5511933589707&text&type=phone_number&app_absent=0&utm_source=ig"
             target="_blank"
             rel="noopener noreferrer"
             className="group relative overflow-hidden bg-white hover:bg-white/90 text-black font-semibold px-10 py-4 rounded-xl transition-all shadow-lg hover:shadow-white/20 text-sm w-full sm:w-auto hover:scale-105 active:scale-95 duration-200"

@@ -1,3 +1,4 @@
+
 import React from 'react';
 import { GlowingEffect } from './ui/glowing-effect';
 import { motion } from 'framer-motion';
@@ -61,7 +62,7 @@ export const BottomCTA: React.FC = () => {
               Receba o diagnóstico e tenha o problema resolvido.
             </motion.p>
             <motion.a 
-              href="https://api.whatsapp.com/send/?phone=5511954608742&text&type=phone_number&app_absent=0&utm_source=ig"
+              href="https://api.whatsapp.com/send/?phone=5511933589707&text&type=phone_number&app_absent=0&utm_source=ig"
               target="_blank"
               rel="noopener noreferrer"
               initial={{ y: 20, opacity: 0 }}
